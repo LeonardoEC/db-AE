@@ -1,0 +1,45 @@
+{
+    "eventos": [
+      {
+        "id": 1,
+        "nombre": "Danza",
+        "lugar": "BsAs",
+        "precio": 5,
+        "fecha_inicio": "15/03/22",
+        "imagen": ""
+      },
+      {
+        "id": 2,
+        "nombre": "Concierto Rock",
+        "lugar": "Córdoba",
+        "precio": 20,
+        "fecha_inicio": "20/04/22",
+        "imagen": ""
+      },
+      {
+        "id": 3,
+        "nombre": "Exposición de Arte",
+        "lugar": "Mendoza",
+        "precio": 10,
+        "fecha_inicio": "10/05/22",
+        "imagen": ""
+      },
+      {
+        "id": 4,
+        "nombre": "Teatro",
+        "lugar": "Rosario",
+        "precio": 15,
+        "fecha_inicio": "25/06/22",
+        "imagen": ""
+      },
+      {
+        "id": 5,
+        "nombre": "Feria de Libros",
+        "lugar": "La Plata",
+        "precio": 0,
+        "fecha_inicio": "05/07/22",
+        "imagen": ""
+      }
+    ]
+  }
+  
